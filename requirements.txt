@@ -1,0 +1,4 @@
+# Python dependencies for the NSE calendar spread screener
+
+pandas>=2.0
+jugaad-data>=0.8.0
